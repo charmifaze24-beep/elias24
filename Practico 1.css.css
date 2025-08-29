@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edu.Noticias</title>
+    <link rel="stylesheet" type="text/css" href="./estilos/estilo.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        p {
+            color: #666;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #e2e2e2;
+        }
+        .destacado {
+            background-color: yellow;
+            font-style: italic;
+            padding: 10px;
+        }
+        #tituloPrincipal {
+            font-size: 2.5em;
+            color: darkblue;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+
+<h1>ANEP DECLARA NUEVA REFORMA PARA UTU</h1>
+
+<h2>La Administración Nacional de Educación Pública (ANEP) declaró nueva reforma para UTU</h2>
+
+<p><i>Hoy en día el <b>sedentarismo</b> y el uso constante del celular en los adolescentes es muy común, causando que dejen de practicar deporte y, a lo largo, presenten problemas de salud como: pérdida de masa muscular, fatiga, ansiedad, depresión y aumento de enfermedades crónicas. 
+Es por esto que <b>ANEP</b> tomó medidas para prevenir estos síntomas en los adolescentes.</i></p>
+
+<p><i>El objetivo de esto es conseguir que los jóvenes tengan más tiempo para el deporte y puedan mejorar su salud física y mental. También busca concientizar a los estudiantes sobre la importancia de las horas que pasamos tras la pantalla del celular y encontrar nuevas formas de garantizar un mejor enfoque en los estudios.</i></p>
+
+<h2><u>¿Cuándo planean aplicar esta reforma?</u></h2>
+<p><i>Según dijo el <b>Ministro de Educación y Cultura José Carlos Mahía</b> y la Administración Nacional de Educación Pública (ANEP), la reforma se aplicará en marzo del año 2026.</i></p>
+
+<h2><u>¿En qué consiste la reforma?</u></h2>
+<p><i>Consiste en agregar <b>Educación Física</b> como nueva materia <b>obligatoria</b>.
+Esto también implica un <b>aumento en la carga horaria</b>, agregando una hora más al horario semanal en todas las UTUs, incluyendo al Instituto de Alta Especialización (IAE).</i></p>
+
+<h2>¿DE QUÉ FORMA AFECTARÍA AL IAE?</h2>
+<p><i>La reforma, en el caso del instituto <b>IAE</b>, se aplicará al igual que en otras UTUs del país, agregando Educación Física como una de sus materias obligatorias. Esto también implica un aumento de la carga horaria y un uso obligatorio del uniforme. Si esto último no se cumple, se aplicará una sanción a aquellos estudiantes que no cumplan con estos términos.
+En el caso de las personas con discapacidades físicas, no es necesario cumplir con estos términos a excepción del uniforme, que seguirá siendo obligatorio.</i></p>
+
+<h3 id="tituloPrincipal">Lorena Lopez Gonzales</h3>
+<p><i>Es fundamental que los adolescentes incorporen hábitos saludables en su rutina diaria. Esta medida de ANEP no solo fomenta la actividad física, sino que también ayudará a mejorar el rendimiento académico y el bienestar integral de los estudiantes.</i></p>
+
+
+<h2>          </h2>
+<p style="color: red; background-color: yellow; text-align: center;">Este es un párrafo con estilo en línea.</p>
+
+</body>
+</html>

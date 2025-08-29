@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edu.Noticias</title>
+    <link rel="stylesheet" type="text/css" href="./estilos/estilo.css">
+    <style>
+        /* Estilos internos del Ejercicio Práctico 2 */
+        h1, h2, h3 {
+            color: darkgreen;
+            font-size: 1.5em;
+        }
+        p {
+            margin-left: 10%;
+            margin-right: 10%;
+        }
+    </style>
+</head>
+<body>
+
+<h1 style="color: blue; background-color: lightgray; text-align: center;">ANEP DECLARA NUEVA REFORMA PARA UTU</h1>
+
+<h2 style="color: green; background-color: white; text-align: left;">La Administración Nacional de Educación Pública (ANEP) declaró nueva reforma para UTU</h2>
+
+<p style="color: black; background-color: #f0f0f0; text-align: justify;"><i>Hoy en día el <b>sedentarismo</b> y el uso constante del celular en los adolescentes es muy común, causando que dejen de practicar deporte y, a lo largo, presenten problemas de salud como: pérdida de masa muscular, fatiga, ansiedad, depresión y aumento de enfermedades crónicas. 
+Es por esto que <b>ANEP</b> tomó medidas para prevenir estos síntomas en los adolescentes.</i></p>
+
+<p style="color: black; background-color: #f0f0f0; text-align: justify;"><i>El objetivo de esto es conseguir que los jóvenes tengan más tiempo para el deporte y puedan mejorar su salud física y mental. También busca concientizar a los estudiantes sobre la importancia de las horas que pasamos tras la pantalla del celular y encontrar nuevas formas de garantizar un mejor enfoque en los estudios.</i></p>
+
+<h2 style="color: purple; background-color: white; text-align: center;"><u>¿Cuándo planean aplicar esta reforma?</u></h2>
+<p style="color: black; background-color: #f0f0f0; text-align: left;"><i>Según dijo el <b>Ministro de Educación y Cultura José Carlos Mahía</b> y la Administración Nacional de Educación Pública (ANEP), la reforma se aplicará en marzo del año 2026.</i></p>
+
+<h2 style="color: orange; background-color: white; text-align: left;"><u>¿En qué consiste la reforma?</u></h2>
+<p style="color: black; background-color: #f0f0f0; text-align: justify;"><i>Consiste en agregar <b>Educación Física</b> como nueva materia <b>obligatoria</b>.
+Esto también implica un <b>aumento en la carga horaria</b>, agregando una hora más al horario semanal en todas las UTUs, incluyendo al Instituto de Alta Especialización (IAE).</i></p>
+
+<h2 style="color: teal; background-color: white; text-align: left;">¿DE QUÉ FORMA AFECTARÍA AL IAE?</h2>
+<p style="color: black; background-color: #f0f0f0; text-align: justify;"><i>La reforma, en el caso del instituto <b>IAE</b>, se aplicará al igual que en otras UTUs del país, agregando Educación Física como una de sus materias obligatorias. Esto también implica un aumento de la carga horaria y un uso obligatorio del uniforme. Si esto último no se cumple, se aplicará una sanción a aquellos estudiantes que no cumplan con estos términos.
+En el caso de las personas con discapacidades físicas, no es necesario cumplir con estos términos a excepción del uniforme, que seguirá siendo obligatorio.</i></p>
+
+<h3 id="tituloPrincipal" style="color: darkblue; font-size: 2.5em; border: 1px solid black;">Lorena Lopez Gonzales</h3>
+<p style="color: black; background-color: #f0f0f0; text-align: justify;"><i>Es fundamental que los adolescentes incorporen hábitos saludables en su rutina diaria. Esta medida de ANEP no solo fomenta la actividad física, sino que también ayudará a mejorar el rendimiento académico y el bienestar integral de los estudiantes.</i></p>
+
+<h2>Ejercicio Práctico 1: Estilos en Línea</h2>
+<p style="color: red; background-color: yellow; text-align: center;">Este es un párrafo con estilo en línea.</p>
+
+
+<h2>Ejercicio Práctico 2: Estilos Internos</h2>
+<p>Este es un párrafo con estilo interno, donde se eliminan los estilos en línea y se aplican los definidos en el bloque <style> del encabezado.</p>
+
+</body>
+</html>
